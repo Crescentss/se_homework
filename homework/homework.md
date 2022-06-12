@@ -192,13 +192,13 @@ while ((len = in.read(buffer)) != -1) {
 手机端：
 
 手机端上传一个文件后，即可更新文件列表，查看到电脑端上传的两个文件
-<img src="./image/phone1-2.jpg" width="60%">
+<img src="./image/phone1-2.jpg" width="40%">
 
 1. 点击下载按钮进行下载
-<img src="./image/phone1-3.jpg" width="60%">
+<img src="./image/phone1-3.jpg" width="40%">
 
 2. 下载完成
-<img src="./image/phone1-4.jpg" width="60%">
+<img src="./image/phone1-4.jpg" width="40%">
 
 同理，电脑端也可对手机端的文件进行下载
 <img src="./image/computer1-3.png" width="60%">
@@ -316,9 +316,9 @@ setTimeout(function () {
 <img src="./image/computer2-1.png" width="60%">
 1. 手机端在框内输入想要粘贴的文字
 2. 手机端点击粘贴按钮，把文字写入服务器中
-<img src="./image/phone2-1.jpg" width="60%">
+<img src="./image/phone2-1.jpg" width="40%">
 3. 电脑端点击复制按钮，即可把手机端粘贴的文字复制到电脑的剪切板中
-<img src="./image/phone2-2.jpg" width="60%">
+<img src="./image/computer2-2.png" width="60%">
 
 
 ## 总结
