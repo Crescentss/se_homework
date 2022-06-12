@@ -182,7 +182,7 @@ while ((len = in.read(buffer)) != -1) {
 手机端和电脑端各自访问[http://10.61.86.101:8080/UpDownloadFiles/upload.jsp](http://10.61.86.101:8080/UpDownloadFiles/upload.jsp)
 
 电脑端：
-![image](./image/computer1-1.png)
+<img src="./image/computer1-1.png" width="60%">
 1. 点击“选择文件”按钮，即可跳转到文件管理器，选择相应文件
 2. 点击上传，即可将文件上传到服务器，并显示在文件下载区
 
